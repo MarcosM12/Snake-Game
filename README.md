@@ -14,3 +14,4 @@ The game is programmed in Assembly and has a gui emulated by emu8086 software.
 
 # Requirements to play
 1. Emu8086 software (To emulate intel 8086 processor)
+2. Put required files (top5.bin and resultados.txt) in C:/emu8086/vdrive/C/ 

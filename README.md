@@ -4,6 +4,8 @@
 Snake game made in emu8086 microprocessor emulator.  
 The game is programmed in Assembly and has a gui emulated by emu8086 software.
 
+![Main Menu](https://raw.githubusercontent.com/MarcosM12/Snake-Game/main/Snake_game_main_menu.PNG)
+
 # Main features
 1. Third option on the main menu shows the top five players with most points;
 2. Every game is stored inside a file called resultados.txt;
